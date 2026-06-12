@@ -7,6 +7,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Synthea](https://img.shields.io/badge/Data-Synthea-1D9E75?style=flat)
 
+<img width="901" height="509" alt="image" src="https://github.com/user-attachments/assets/9032d05e-4045-4d3e-b7fa-95998667b7e0" />
+<img width="914" height="713" alt="image" src="https://github.com/user-attachments/assets/f63630ce-c5f9-4c0d-91a6-8fa9ddfd843b" />
+<img width="978" height="725" alt="image" src="https://github.com/user-attachments/assets/8ae12880-f41d-4b08-ac48-a87ccc890795" />
+<img width="927" height="719" alt="image" src="https://github.com/user-attachments/assets/0c797e37-3cd0-47d5-b61f-18f079051461" />
+
 ---
 
 ## Table of Contents
@@ -679,23 +684,6 @@ Setup: Add `DIM_PATIENT[patient_id]` to the page's Drill-through field well.
 | Page bg | #F0F2F8 | Report canvas |
 
 Apply: View → Themes → Browse → `Synthea_Healthcare_Theme.json`
-
----
-
-## Key Insights
-
-| # | Insight | Metric |
-|---|---|---|
-| 1 | Medication spend dwarfs encounter cost | $100.1M medications vs $6.87M encounters |
-| 2 | 93.7% of medication cost is uninsured | Only $6.3M of $100.1M payer-covered |
-| 3 | Urgent care = 100% patient OOP | $306K with zero payer coverage |
-| 4 | Cardioversion = 18% of all procedure spend | $31.1M of $172.5M total |
-| 5 | 80.9% of providers have zero utilization | 4,735 of 5,855 providers |
-| 6 | Top provider handles 7.5% of all encounters | 3,983 of 53,346 |
-| 7 | 90% of patients are rapid returners | 1,059 of 1,171 return within 30 days |
-| 8 | Uninsured = largest payer by encounter volume | 10,175 encounters, $1.31M OOP |
-| 9 | Dual Eligible patients have lowest QOLS | 0.363 vs Anthem/UnitedHealth at 0.932 |
-| 10 | VA Boston tops both revenue and utilization | $595K revenue, 4,828 utilization, 1 provider |
 
 ---
 
